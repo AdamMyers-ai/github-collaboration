@@ -16,7 +16,7 @@ const passDataToView = require('./middleware/pass-data-to-view.js');
 
 
 //* VAR
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 1443;
 
 //* APP
 const app = express();

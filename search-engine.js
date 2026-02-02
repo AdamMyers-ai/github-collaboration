@@ -1,4 +1,3 @@
-const fs = require('fs');
 const starships = require('./starships_store.js');
 
 search("palace coruscant naboo", starships)
